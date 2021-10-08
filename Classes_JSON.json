@@ -1,6 +1,6 @@
 [
   [
-      "Rogue", "Dice.D8", "1d8 + modificador de constiuiçao ou 5 + modificador de constiuiçao", 
+      "Rogue", "D8", "1d8 + modificador de constiuiçao ou 5 + modificador de constiuiçao", 
       "Proficiencies", "Armor: Light armor \nWeapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords \nTools: Thieves' tools\nSkills: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth",
       "Equipment", "You start with the following equipment, in addition to the equipment granted by your background: \n(a) a rapier or (b) a shortsword \n(a) a shortbow and quiver of 20 arrows or (b) a shortsword \n(a) a burglar's pack, (b) dungeoneer's pack, or (c) an explorer's pack \nLeather armor, two daggers, and thieves' tools",
       "Expertise", "At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. \n At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.",
