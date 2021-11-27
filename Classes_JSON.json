@@ -131,7 +131,7 @@
        "20", "Archdruid", "At 20th level, you can use your Wild Shape an unlimited number of times. \nAdditionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.",
    ],
    [
-       "6", "Bard", "D8", "1d8 (or 5) + your Constitution modifier per bard level after 1st"
+       "6", "Bard", "D8", "1d8 (or 5) + your Constitution modifier per bard level after 1st",
        "1", "Proficiencies", "Armor: Light armor \nWeapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords \nTools: Three musical instruments of your choice \nSaving Throws: Dexterity, Charisma \nSkills: Choose any three",
        "1", "Equipment", "You start with the following equipment, in addition to the equipment granted by your background: \n\t(a) a rapier, (b) a longsword, or (c) any simple weapon \n\t(a) a diplomat's pack or (b) an entertainer's pack \n\t(a) a lute or (b) any other musical instrument \n\tLeather armor and a dagger",
        "1", "Spellcasting", "You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.",
