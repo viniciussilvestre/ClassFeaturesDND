@@ -101,7 +101,8 @@
        "18", "Magic Item Master", "Starting at 18th level, you can attune up to six magic items at once.",
        "19", "Ability Score Improvement", "When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
        "20", "Soul of Artifice", "At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection: \n\tYou gain a +1 bonus to all saving throws per magic item you are currently attuned to. \n\tIf you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.",
-   ]
+   ],
+   [
        "5", "Druid", "D8", "1d8 (or 5) + your Constitution modifier per druid level after 1st",
        "1", "Proficiencies", "Armor: Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) \nWeapons: Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears \nTools: Herbalism kit \nSaving Throws: Intelligence, Wisdom \nSkills: Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival",
        "1", "Equipment", "You start with the following equipment, in addition to the equipment granted by your background: \n\t(a) a wooden shield or (b) any simple weapon \n\t(a) a scimitar or (b) any simple melee weapon \n\tLeather armor, an explorer's pack, and a druidic focus",
@@ -128,4 +129,5 @@
        "19", "Ability Score Improvement", "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
        "19", "Cantrip Versatility (Optional)", "Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the druid spell list.",
        "20", "Archdruid", "At 20th level, you can use your Wild Shape an unlimited number of times. \nAdditionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.",
+   ]
 ]
