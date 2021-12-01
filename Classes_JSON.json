@@ -1,6 +1,6 @@
 [
     [
-        "1", "Rogue", "D8", "1d8 + modificador de constiuiçao ou 5 + modificador de constiuiçao", 
+        "1", "Rogue", "D8", "1d8 + modificador de constiuiçao ou 5 + modificador de constiuiçao",
         "1", "Proficiencies", "Armor: Light armor \nWeapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords \nTools: Thieves' tools\nSkills: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth",
         "1", "Equipment", "You start with the following equipment, in addition to the equipment granted by your background: \n(a) a rapier or (b) a shortsword \n(a) a shortbow and quiver of 20 arrows or (b) a shortsword \n(a) a burglar's pack, (b) dungeoneer's pack, or (c) an explorer's pack \nLeather armor, two daggers, and thieves' tools",
         "1", "Expertise", "At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. \n At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit.",
@@ -47,7 +47,7 @@
         "16", "Sorcerous Versatility (Optional)", "When you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways: \nReplace one of the options you chose for the Metamagic feature with a different Metamagic option available to you. \nReplace one cantrip you learned from this class' spellcasting feature with another cantrip from the sorcerer spell list.",
         "19", "Ability Score Improvement", "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
         "19", "Sorcerous Versatility (Optional)", "When you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways: \nReplace one of the options you chose for the Metamagic feature with a different Metamagic option available to you. \nReplace one cantrip you learned from this class' spellcasting feature with another cantrip from the sorcerer spell list.",
-        "20", "Sorcerous Restoration", "At 20th level, you regain 4 expended sorcery points whenever you finish a short rest."  
+        "20", "Sorcerous Restoration", "At 20th level, you regain 4 expended sorcery points whenever you finish a short rest."
     ],
     [
         "3", "Fighter", "D10", "1d10 (or 6) + your Constitution modifier per fighter level after 1st",
@@ -70,7 +70,7 @@
         "16", "Ability Score Improvement", "When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
         "17", "Indomitable", "Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest. \nYou can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.",
         "19", "Ability Score Improvement", "When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-        "20", "Extra Attack", "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. \nThe number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.",
+        "20", "Extra Attack", "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. \nThe number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class."
     ],
     [
        "4", "Artificer", "D8", "1d8 (or 5) + your Constitution modifier per artificer level after 1st",
@@ -100,7 +100,7 @@
        "16", "Ability Score Improvement", "When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
        "18", "Magic Item Master", "Starting at 18th level, you can attune up to six magic items at once.",
        "19", "Ability Score Improvement", "When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
-       "20", "Soul of Artifice", "At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection: \n\tYou gain a +1 bonus to all saving throws per magic item you are currently attuned to. \n\tIf you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.",
+       "20", "Soul of Artifice", "At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection: \n\tYou gain a +1 bonus to all saving throws per magic item you are currently attuned to. \n\tIf you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0."
    ],
    [
        "5", "Druid", "D8", "1d8 (or 5) + your Constitution modifier per druid level after 1st",
@@ -128,7 +128,7 @@
        "18", "Beast Spells", "Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.",
        "19", "Ability Score Improvement", "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
        "19", "Cantrip Versatility (Optional)", "Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the druid spell list.",
-       "20", "Archdruid", "At 20th level, you can use your Wild Shape an unlimited number of times. \nAdditionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.",
+       "20", "Archdruid", "At 20th level, you can use your Wild Shape an unlimited number of times. \nAdditionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape."
    ],
    [
        "6", "Bard", "D8", "1d8 (or 5) + your Constitution modifier per bard level after 1st",
@@ -162,6 +162,6 @@
        "18", "Magical Secrets", "By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. \nThe chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table. \nYou learn two additional spells from any class at 14th level and again at 18th level.",
        "19", "Ability Score Improvement", "When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
        "19", "Bardic Versatility (Optional)", "Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic: \n\tReplace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise. \n\tReplace one cantrip you learned from this class's Spellcasting feature with another cantrip from the bard spell list.",
-       "20", "Superior Inspiration", "At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.",
-   ],
+       "20", "Superior Inspiration", "At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use."
+   ]
 ]
